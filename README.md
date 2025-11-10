@@ -86,15 +86,3 @@ The app is optimized for deployment on Vercel:
 2. Connect your repository to Vercel
 3. Add your environment variables in the Vercel dashboard
 4. Deploy!
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details.
